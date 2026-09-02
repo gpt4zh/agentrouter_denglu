@@ -2,5 +2,5 @@
 
 | 用户名 | 结果 | 时间 |
 | --- | --- | --- |
-| amberjennauonp@gmail.com | 失败 | 2026-09-01 13:00:50 |
-| hero44a5@gmail.com | 成功 | 2026-09-01 13:01:00 |
+| amberjennauonp@gmail.com | 成功 | 2026-09-02 12:24:01 |
+| hero44a5@gmail.com | 成功 | 2026-09-02 12:24:09 |
